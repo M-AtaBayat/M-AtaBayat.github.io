@@ -18,8 +18,7 @@ I'm a **Web Developer & Designer**, passionate about building modern and interac
 ### Backend
 - ASP.NET Core
 - Onion Architecture
-- Node.js
-
+- SQL (Database Management)
 ---
 
 ## 📫 Contact
