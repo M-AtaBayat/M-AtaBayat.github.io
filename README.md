@@ -11,8 +11,7 @@ I'm a **Web Developer & Designer**, passionate about building modern and interac
 - HTML & CSS
 - Bootstrap
 - JavaScript (JS)
-- React
-- Node.js
+- Tailwind
 - Responsive & dynamic web design
 
 ### Backend
