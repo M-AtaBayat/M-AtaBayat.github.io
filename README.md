@@ -21,6 +21,7 @@ I'm a **Web Developer & Designer**, passionate about building modern and interac
 ---
 
 ## 📫 Contact
+- Web: [Mohammad Ata Bayat - Web Resume](https://mohammadatabayatresume.netlify.app/)
 - Email: [bayatata88@gmail.com](mailto:bayatata88@gmail.com)
 - Phone: 09945633104
 
